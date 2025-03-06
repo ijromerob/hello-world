@@ -1,20 +1,18 @@
 # Overview
 
-This hello world program was created with JavaScript. It logs in the console "Hello World".
+This hello world program was created with JavaScript and HTML. It logs in the console "Hello World".
 
-The program was made with Visual Studio Code and
+The program was made with Visual Studio Code and integrated with GitHub
 
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+Web Browser
 
-{Describe the programming language that you used}
+Visual Studio Code
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
+- [Console log method](https://www.w3schools.com/jsref/met_console_log.asp)
+- [Script Tag](https://www.w3schools.com/tags/tag_script.asp)
