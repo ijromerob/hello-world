@@ -4,7 +4,7 @@ This hello world program was created with JavaScript and HTML. It logs in the co
 
 The program was made with Visual Studio Code and integrated with GitHub
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/kUqzrke08Fo)
 
 # Development Environment
 
